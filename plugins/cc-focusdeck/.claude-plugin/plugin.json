@@ -1,0 +1,22 @@
+{
+  "name": "cc-focusdeck",
+  "version": "1.0.0",
+  "description": "A Claude Code deck: a Focus band with the task's progress above the prompt, model and effort controls, terminal themes, and a ccstatusline installer and layout editor.",
+  "author": {
+    "name": "Rapha Rodrigues"
+  },
+  "homepage": "https://github.com/rapha-rodrigues/cc-focusdeck",
+  "repository": "https://github.com/rapha-rodrigues/cc-focusdeck",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "mod",
+    "focus",
+    "model",
+    "effort",
+    "themes",
+    "statusline"
+  ],
+  "types": "./types/index.d.ts"
+}

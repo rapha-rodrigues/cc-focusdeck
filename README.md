@@ -1,3 +1,5 @@
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/icon-dark.gif"><img src="docs/icon-light.gif" width="96" alt=""></picture></p>
+
 # cc-focusdeck
 
 **A deck for Claude Code: a Focus band with the task's progress, model and effort controls, terminal themes, and a status line editor.**
